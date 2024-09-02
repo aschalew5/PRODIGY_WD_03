@@ -36,7 +36,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2px;
+  padding: 3px;
 }
 
 .cell:hover {
